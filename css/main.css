@@ -309,8 +309,9 @@ a:hover {
 }
 
 .work-photo {
-  width: 275px;
-  height: 275px;
+  margin-top: 20px;
+  width: 250px;
+  height: 250px;
   border-radius: 200px;
 }
 
